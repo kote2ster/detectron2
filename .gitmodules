@@ -1,0 +1,3 @@
+[submodule "projects/centermask2"]
+	path = projects/centermask2
+	url = https://github.com/Traderain/centermask2
